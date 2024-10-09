@@ -1,36 +1,39 @@
-# Pokédex Angular
+﻿> Written with [StackEdit](https://stackedit.io/).
+# Instrucciones para Crear una Cuenta de **Azure for Students**
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+A continuación, se describen los pasos necesarios para crear una cuenta en Azure for Students.
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+## Requisitos
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+Antes de comenzar, verifique que cumpla con los siguientes criterios:
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+- Tener **18 años o más**.
+- Contar con un **correo institucional válido**.
+- No haber registrado previamente una cuenta en **Azure for Students**.
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+## Paso 1: Acceder al Sitio
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+Diríjase a la [página oficial de Azure for Students](https://azure.microsoft.com/es-es/free/students/) y seleccione la opción **"Iniciar Gratis"**.
 
-## Requisitos mínimos
+## Paso 2: Iniciar Sesión
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
+- Inicie sesión con su cuenta Microsoft, si ya dispone de una.
+- En caso contrario, seleccione **"Crear una nueva cuenta"** y siga las indicaciones.
 
-## Ambiente de pruebas
+## Paso 3: Verificación del Correo Educativo
 
-Ejecutar en la raíz del proyecto:
+1. Ingrese su **correo institucional**.
+2. Verifique su correo mediante el **código de verificación** que se enviará a su bandeja de entrada.
 
-```
-npm start
-```
+## Paso 4: Aceptación de los Términos
 
-## Referencias
+Revise los **términos y condiciones**. Si está de acuerdo, proceda a aceptarlos.
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+## Paso 5: Completar Información
+
+Rellene los datos solicitados, como **nombre completo**, **dirección**, entre otros. No se requiere proporcionar información de tarjeta de crédito.
+
+## Finalización del Proceso
+
+Tras completar estos pasos, su cuenta estará lista para su uso. Azure for Students ofrece diversos servicios gratuitos que podrá explorar de inmediato.
+
