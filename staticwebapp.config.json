@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "headers": {
+        "Content-Security-Policy": "default-src * data: blob:; style-src 'self' 'unsafe-inline' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; font-src 'self' https: data:; img-src 'self' https: data: blob:; connect-src *; media-src *; frame-src *;",
+        "permissions-policy": "geolocation=(), microphone=(), camera=()",
+        "x-frame-options": "DENY"
+      }
+    }
+  ]
+}
